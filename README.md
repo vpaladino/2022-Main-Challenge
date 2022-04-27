@@ -38,19 +38,11 @@ During the competition, it is helpful to frequently fetch updates and push chang
 
 ```powershell
 git fetch
-git rebase origin/main
+git rebase -i origin/main
 git push
 ```
 
-If there are conflicts, execute rebase interactively.
-
-```powershell
-# Set VSCode for interactive editor
-git config core.editor "code --wait"
-git rebase -i origin/main
-```
-
-Reach out for help if you are new to resolving merge conflicts.
+Reach out for help if you are new to rebasing or resolving merge conflicts.
 
 
 # VSCode
@@ -60,3 +52,9 @@ Code format and style settings are enforced by VSCode.
 # Tests
 
 Used Pester 5 for tests and place them into the `./tests` folder.
+
+Execute tests by running this command:
+
+```powershell
+Invoke-Pester
+```
