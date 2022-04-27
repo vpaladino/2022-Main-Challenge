@@ -1,13 +1,24 @@
 {
+    // Editor Settings
+    "editor.formatOnSave": true,
     "editor.insertSpaces": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "git.allowForcePush": false,
+    "git.autofetch": true,
+    "git.autofetchPeriod": 60,
+    // PowerShell Formatting
     "powershell.codeFormatting.useCorrectCasing": true,
     "powershell.codeFormatting.preset": "OTBS",
     "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline",
     "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
     "powershell.codeFormatting.whitespaceBetweenParameters": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modificationsIfAvailable",
-    "files.trimTrailingWhitespace": true,
     "powershell.codeFormatting.autoCorrectAliases": true,
-    "git.allowForcePush": false,
+
 }
