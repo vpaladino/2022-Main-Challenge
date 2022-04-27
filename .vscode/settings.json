@@ -1,0 +1,13 @@
+{
+    "editor.insertSpaces": true,
+    "powershell.codeFormatting.useCorrectCasing": true,
+    "powershell.codeFormatting.preset": "OTBS",
+    "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline",
+    "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+    "powershell.codeFormatting.whitespaceBetweenParameters": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "files.trimTrailingWhitespace": true,
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "git.allowForcePush": false,
+}
