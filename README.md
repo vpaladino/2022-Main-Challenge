@@ -34,7 +34,7 @@ Feel free to make multiple commits as needed.
 
 ## Fetch and Push Changes
 
-During the competition, it is helpful to frequently fetch updates and push changes.
+During the competition, it is helpful to frequently fetch updates and push changes. Make sure you have everything committed locally then run these commands.
 
 ```powershell
 git fetch
