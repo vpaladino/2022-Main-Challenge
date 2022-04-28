@@ -1,7 +1,7 @@
 # 2022-Main-Challenge
 Repository for IronScripter 2022 Main Challenge.
 
-Request access to this repository from the `#faction-flawless` slack channel. If you do not get access, you can open pull requests to merge your changes.
+Request access to this repository from the `#faction-flawless` slack channel. If you do not get access, you cannot open pull requests to merge your changes.
 
 Clone the project:
 ```powershell
