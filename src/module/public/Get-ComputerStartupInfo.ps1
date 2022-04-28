@@ -1,4 +1,4 @@
-function Invoke-Main {
+function Get-ComputerStartupInfo {
     <#
     .DESCRIPTION
 
@@ -12,7 +12,7 @@ function Invoke-Main {
             Mandatory,
             ValueFromPipelineByPropertyName
         )]
-        [String[]] $Path
+        [String[]] $ComputerName
     )
 
     process {
