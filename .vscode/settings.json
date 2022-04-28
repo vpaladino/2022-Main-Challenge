@@ -20,5 +20,5 @@
     "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
     "powershell.codeFormatting.whitespaceBetweenParameters": true,
     "powershell.codeFormatting.autoCorrectAliases": true,
-
+    "powershell.scriptAnalysis.enable": true
 }
